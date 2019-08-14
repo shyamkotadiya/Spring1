@@ -28,6 +28,10 @@ public class Regcontroller {
 	public ModelAndView load()
 	{
 		return new ModelAndView("sregistration","data",new Regvo());
+
+
+
+
 	}
 	
 	
